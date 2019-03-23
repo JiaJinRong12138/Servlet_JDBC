@@ -1,0 +1,12 @@
+
+Ksquid:S1989-"(Add a "try/catch" block for "getWriter".(“­†·øÿÿÿÿ8Ìş½Êš-
+Gsquid:S1989"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿ8ÓøØ¯š-
+Qsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿
+Fsquid:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“ù°š-
+}squid:S1149."_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8ğäÍÊš-
+Fsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“ù°š-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ
+Gsquid:S1989"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿ8ÓøØ¯š-
+bsquid:S2147*"DCombine this catch with the one at line 40, which has the same body.(ıàÑÎ8“ù°š-
+Fsquid:S1185"(Remove this method to simply inherit it.(®´š¥8é’Ø¯š-
+Qsquid:S1989!"3Add a "try/catch" block for "setCharacterEncoding".(ï‡‹ê8ŒÜ¯š-

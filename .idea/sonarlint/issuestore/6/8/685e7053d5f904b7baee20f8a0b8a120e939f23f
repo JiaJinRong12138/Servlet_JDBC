@@ -1,0 +1,12 @@
+
+W
+squid:S106…"9Replace this use of System.out or System.err by a logger.(â²¦Œ8ÔÛ§¯š-
+gsquid:UselessImportCheck"7Remove this unused import 'java.util.SplittableRandom'.(âå ¦şÿÿÿÿ8Æ”ó®š-
+ysquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(ŞŠ»øÿÿÿÿ8Ş×£©š-
+Csquid:S20680" Remove this hard-coded password.(ÌÕû±ıÿÿÿÿ8¥ÑÛ­š-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(Àùß8Ş¥Ÿ®š-
+_squid:S1126!"AReplace this if-then-else statement by a single return statement.(Í¶ù¾8¸ê…®š-
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß®øÜüÿÿÿÿ8ùÿ§¯š-
+W
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(Œû¨ø8ùÿ§¯š-
